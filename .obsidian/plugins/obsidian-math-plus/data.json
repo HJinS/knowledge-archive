@@ -6,7 +6,7 @@
   "color3": "#d9480f",
   "colorPicker": false,
   "minHeight": "100",
-  "livePreview": false,
+  "livePreview": true,
   "addDollars": false,
   "idHidden": false,
   "formattingHidden": true,
