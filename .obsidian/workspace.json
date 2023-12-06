@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강화학습/마르코프 보상 과정(MDP).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강화학습/마르코프 보상 과정(MDP).md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강화학습/마르코프 보상 과정(MDP).md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강화학습/마르코프 보상 과정(MDP).md"
+                "file": "README.md"
               }
             }
           }
@@ -164,8 +164,8 @@
   },
   "active": "667b6538fc433be7",
   "lastOpenFiles": [
-    "감가율.md",
     "강화학습/마르코프 보상 과정(MDP).md",
+    "감가율.md",
     "강화학습/마르코프 연쇄.md",
     "강화학습/마르코프 속성.md",
     "보상.md",
