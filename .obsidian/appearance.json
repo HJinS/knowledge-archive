@@ -1,4 +1,5 @@
 {
-  "accentColor": "",
-  "cssTheme": "Typewriter"
+  "accentColor": "#5f5cf5",
+  "cssTheme": "Typewriter",
+  "theme": "moonstone"
 }
