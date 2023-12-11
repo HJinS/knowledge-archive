@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강화학습/마르코프 보상 과정/마르코프 보상 과정(MRP).md",
+                "file": "강화학습/마르코프 결정 과정/정책.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,18 +25,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강화학습/마르코프 보상 과정/감가율.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "d37f1c062eb7906c",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
             }
           },
           {
@@ -50,9 +42,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b6b3b39d6c5a802b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/MRP MDP 비교.md"
+              }
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강화학습/마르코프 결정 과정/마르코프 결정 과정(MDP).md",
+                "file": "강화학습/마르코프 결정 과정/정책.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강화학습/마르코프 결정 과정/마르코프 결정 과정(MDP).md",
+                "file": "강화학습/마르코프 결정 과정/정책.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강화학습/마르코프 결정 과정/마르코프 결정 과정(MDP).md"
+                "file": "강화학습/마르코프 결정 과정/정책.md"
               }
             }
           }
@@ -182,27 +183,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "08ebd692c8a92d2f",
+  "active": "f4c8331144ca74ab",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "강화학습/마르코프 결정 과정/마르코프 결정 과정(MDP).md",
+    "MDP.md",
+    "강화학습/마르코프 결정 과정/정책.md",
+    "README.md",
     "강화학습/마르코프 보상 과정/마르코프 보상 과정(MRP).md",
-    "강화학습/마르코프 보상 과정/마르코프 연쇄.md",
-    "강화학습/마르코프 결정 과정",
-    "강화학습/마르코프 보상 과정/보상 함수.md",
-    "강화학습/마르코프 보상 과정/벨만 방정식.md",
     "강화학습/마르코프 보상 과정/감가율.md",
-    "Untitled.md",
-    "강화학습/마르코프 보상 과정",
+    "강화학습/마르코프 결정 과정/마르코프 결정 과정(MDP).md",
+    "Excalidraw/MRP MDP 비교.md",
+    "Excalidraw/보상함수 샘플.md",
     "강화학습/마르코프 보상 과정/마르코프 속성.md",
+    "강화학습/마르코프 보상 과정/마르코프 연쇄.md",
+    "강화학습/마르코프 보상 과정/보상 함수.md",
     "강화학습/마르코프 보상 과정/반환값.md",
+    "강화학습/마르코프 보상 과정/벨만 방정식.md",
     "강화학습/마르코프 보상 과정/상태 가치 함수.md",
     "강화학습/마르코프 보상 과정/환경.md",
-    "Excalidraw/보상함수 샘플.md",
+    "에이전트.md",
+    "Untitled.canvas",
+    "강화학습/마르코프 결정 과정",
+    "Untitled.md",
+    "강화학습/마르코프 보상 과정",
     "Excalidraw",
     "Excalidraw/Drawing 2023-12-07 09.19.48.excalidraw.md",
     "$S$.md",
-    "README.md",
     "감가율.md",
     "보상.md",
     "강화학습"
