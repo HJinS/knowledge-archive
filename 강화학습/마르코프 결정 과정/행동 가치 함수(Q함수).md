@@ -3,7 +3,7 @@
 
 > **Q함수**란 선택할 수 있는 여러 가지 행동 중에 하나를 선택했을 때의 가치를 계산하는 함수이다.
 
-$$
-v_\pi(s) = E_\pi[R_{t+1} + \gamma v_\pi(S_{t+1})|S_t = s]
-v_\pi(s) = \sum_{a \in A}\pi(a | s)R_s^a + \gamma \sum_{a \in A}\pi(a | s)
-$$
+$v_\pi(s) = E_\pi[R_{t+1} + \gamma v_\pi(S_{t+1})|S_t = s]$
+$v_\pi(s) = \sum_{a \in A}\pi(a | s)R_s^a + \gamma \sum_{a \in A}\pi(a | s)$
+
+

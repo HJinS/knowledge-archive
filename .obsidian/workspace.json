@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강화학습/마르코프 결정 과정/행동 가치 함수(Q함수).md",
+                "file": "강화학습/마르코프 결정 과정/상태 가치 함수(MDP).md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강화학습/마르코프 결정 과정/행동 가치 함수(Q함수).md",
+                "file": "강화학습/마르코프 결정 과정/상태 가치 함수(MDP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강화학습/마르코프 결정 과정/행동 가치 함수(Q함수).md",
+                "file": "강화학습/마르코프 결정 과정/상태 가치 함수(MDP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강화학습/마르코프 결정 과정/행동 가치 함수(Q함수).md"
+                "file": "강화학습/마르코프 결정 과정/상태 가치 함수(MDP).md"
               }
             }
           }
@@ -182,9 +182,9 @@
   },
   "active": "417a2404825df809",
   "lastOpenFiles": [
-    "강화학습/마르코프 결정 과정/상태 가치 함수(MDP).md",
-    "강화학습/마르코프 결정 과정/행동 가치 함수(Q함수).md",
     "강화학습/마르코프 결정 과정/정책.md",
+    "강화학습/마르코프 결정 과정/행동 가치 함수(Q함수).md",
+    "강화학습/마르코프 결정 과정/상태 가치 함수(MDP).md",
     "강화학습/마르코프 보상 과정/마르코프 속성.md",
     "강화학습/마르코프 보상 과정/마르코프 연쇄.md",
     "강화학습/마르코프 보상 과정/감가율.md",
