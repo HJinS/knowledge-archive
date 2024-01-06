@@ -33,22 +33,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강화학습/마르코프 결정 과정/행동 가치 함수(Q함수).md",
+                "file": "강화학습/마르코프 결정 과정/최적 정책.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "2cb88d46109c37fe",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "강화학습/마르코프 결정 과정/최적 정책.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "강화학습/마르코프 결정 과정/최적 정책.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "강화학습/마르코프 결정 과정/최적 정책.md"
+              }
             }
           }
         ]
@@ -174,12 +170,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2cb88d46109c37fe",
+  "active": "f4c8331144ca74ab",
   "lastOpenFiles": [
-    "강화학습/마르코프 결정 과정/최적 정책.md",
+    "강화학습/용어",
     "강화학습/마르코프 결정 과정/최적 상태 가치 함수.md",
-    "강화학습/마르코프 결정 과정/행동 가치 함수(Q함수).md",
+    "강화학습/마르코프 결정 과정/최적 정책.md",
     "강화학습/마르코프 결정 과정/최적 행동 가치 함수.md",
+    "강화학습/마르코프 결정 과정/행동 가치 함수(Q함수).md",
     "강화학습/마르코프 결정 과정/마르코프 결정 과정(MDP).md",
     "Excalidraw/MRP MDP 비교.md",
     "강화학습/마르코프 보상 과정/감가율.md",
@@ -205,7 +202,6 @@
     "Untitled.md",
     "강화학습/마르코프 보상 과정",
     "Excalidraw",
-    "Excalidraw/Drawing 2023-12-07 09.19.48.excalidraw.md",
     "강화학습"
   ]
 }
