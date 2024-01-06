@@ -6,10 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FarNoteSticky",
+      "BoBxsLayer",
+      "BoBxsDirections",
       "BoBxsMagicWand",
-      "BoBxsBalloon",
-      "BoBxsBolt",
-      "BoBxsChalkboard"
+      "BoBxsBalloon"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -31,12 +32,13 @@
     "inheritanceIcon": "BoBxsDirections"
   },
   "강화학습/마르코프 결정 과정": {
-    "iconName": null,
+    "iconName": "BoBxsDirections",
     "inheritanceIcon": "BoBxsBalloon"
   },
   "강화학습/마르코프 결정 과정/정책.md": "BoBxsBalloon",
   "강화학습/용어": {
-    "iconName": "BoBxsMagicWand",
+    "iconName": "BoBxsLayer",
     "inheritanceIcon": "BoBxsMagicWand"
-  }
+  },
+  "강화학습/기타": "FarNoteSticky"
 }
