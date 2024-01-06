@@ -21,26 +21,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강화학습/마르코프 결정 과정/행동 가치 함수(Q함수).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51841812199fbc0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "강화학습/마르코프 결정 과정/최적 정책.md",
+                "file": "강화학습/용어/모델 기반 vs 모델 프리.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강화학습/마르코프 결정 과정/최적 정책.md",
+                "file": "강화학습/용어/모델 기반 vs 모델 프리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강화학습/마르코프 결정 과정/최적 정책.md",
+                "file": "강화학습/용어/모델 기반 vs 모델 프리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강화학습/마르코프 결정 과정/최적 정책.md"
+                "file": "강화학습/용어/모델 기반 vs 모델 프리.md"
               }
             }
           }
@@ -170,13 +158,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f4c8331144ca74ab",
+  "active": "417a2404825df809",
   "lastOpenFiles": [
+    "강화학습/용어/정책 제어.md",
+    "강화학습/용어/모델 기반 vs 모델 프리.md",
+    "강화학습/용어/정책 평가.md",
+    "강화학습/마르코프 결정 과정/행동 가치 함수(Q함수).md",
+    "강화학습/마르코프 결정 과정/최적 정책.md",
     "강화학습/용어",
     "강화학습/마르코프 결정 과정/최적 상태 가치 함수.md",
-    "강화학습/마르코프 결정 과정/최적 정책.md",
     "강화학습/마르코프 결정 과정/최적 행동 가치 함수.md",
-    "강화학습/마르코프 결정 과정/행동 가치 함수(Q함수).md",
     "강화학습/마르코프 결정 과정/마르코프 결정 과정(MDP).md",
     "Excalidraw/MRP MDP 비교.md",
     "강화학습/마르코프 보상 과정/감가율.md",
@@ -196,10 +187,8 @@
     "README.md",
     "MDP.md",
     "Excalidraw/보상함수 샘플.md",
-    "에이전트.md",
     "Untitled.canvas",
     "강화학습/마르코프 결정 과정",
-    "Untitled.md",
     "강화학습/마르코프 보상 과정",
     "Excalidraw",
     "강화학습"
