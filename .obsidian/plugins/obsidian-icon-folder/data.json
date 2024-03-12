@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxlKubernetes",
       "FarNoteSticky",
       "BoBxsLayer",
       "BoBxsDirections",
-      "BoBxsMagicWand",
-      "BoBxsBalloon"
+      "BoBxsMagicWand"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,6 @@
     "iconName": "BoBxsLayer",
     "inheritanceIcon": "BoBxsMagicWand"
   },
-  "강화학습/기타": "FarNoteSticky"
+  "강화학습/기타": "FarNoteSticky",
+  "쿠버네티스": "BoBxlKubernetes"
 }
