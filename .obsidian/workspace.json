@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "파드.md",
+                "file": "쿠버네티스/컨트롤 플레인.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "파드.md",
+                "file": "쿠버네티스/컨트롤 플레인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,9 +123,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "파드.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "쿠버네티스/컨트롤 플레인.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -146,11 +146,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "파드.md"
+                "file": "쿠버네티스/컨트롤 플레인.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -173,9 +174,12 @@
   "active": "1ac4d2e72e390d2f",
   "lastOpenFiles": [
     "쿠버네티스/쿠버네티스.md",
-    "파드.md",
+    "쿠버네티스/컨트롤 플레인.md",
+    "쿠버네티스 API 서버의 주요 구현.md",
     "쿠버네티스/노드.md",
     "쿠버네티스/클러스터.md",
+    "쿠버네티스/파드.md",
+    "Untitled.md",
     "강화학습/기타/다이내믹 프로그래밍.md",
     "강화학습/마르코프 결정 과정/정책.md",
     "강화학습/마르코프 결정 과정/마르코프 결정 과정(MDP).md",
@@ -198,9 +202,6 @@
     "강화학습/마르코프 보상 과정/마르코프 연쇄.md",
     "강화학습/마르코프 보상 과정/반환값.md",
     "강화학습/마르코프 보상 과정/벨만 방정식.md",
-    "강화학습/마르코프 보상 과정/보상 함수.md",
-    "강화학습/마르코프 보상 과정/상태 가치 함수(MRP).md",
-    "강화학습/마르코프 보상 과정/상태 전이 매트릭스.md",
     "Untitled.canvas",
     "강화학습/마르코프 결정 과정",
     "강화학습/마르코프 보상 과정",
