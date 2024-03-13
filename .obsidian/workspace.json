@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "쿠버네티스/Node.md",
+                "file": "쿠버네티스/Control Plane.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "쿠버네티스/Node.md",
+                "file": "쿠버네티스/Control Plane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "쿠버네티스/Node.md",
+                "file": "쿠버네티스/Control Plane.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "쿠버네티스/Node.md"
+                "file": "쿠버네티스/Control Plane.md"
               }
             }
           }
@@ -173,9 +173,9 @@
   },
   "active": "1ac4d2e72e390d2f",
   "lastOpenFiles": [
-    "쿠버네티스/Control Plane.md",
     "쿠버네티스/Node.md",
     "쿠버네티스/쿠버네티스.md",
+    "쿠버네티스/Control Plane.md",
     "쿠버네티스 API 서버의 주요 구현.md",
     "쿠버네티스/노드.md",
     "쿠버네티스/클러스터.md",
