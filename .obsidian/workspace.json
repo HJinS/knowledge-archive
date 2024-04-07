@@ -38,9 +38,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fe743f8ca65fdf05",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -171,7 +181,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1ac4d2e72e390d2f",
+  "active": "fe743f8ca65fdf05",
   "lastOpenFiles": [
     "쿠버네티스/Control Plane.md",
     "쿠버네티스/쿠버네티스.md",
